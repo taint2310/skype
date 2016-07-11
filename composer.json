@@ -1,0 +1,23 @@
+{
+    "name": "tafint/skype",
+    "version": "0.0.1",
+    "minimum-stability": "dev",
+    "description": "PHP client for Skype Web API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taifnt",
+            "email": "nguyenthanhtai.2310@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "^6.1",
+        "guzzle/plugin": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Skype\\": "src/"
+        }
+    }
+}
