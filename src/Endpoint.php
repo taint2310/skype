@@ -1,5 +1,5 @@
 <?php
-namespace skype_web_php;
+namespace tafint_skype;
 
 use GuzzleHttp\Psr7\Request;
 

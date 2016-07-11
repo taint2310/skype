@@ -6,7 +6,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "taifnt",
+            "name": "tafint",
             "email": "nguyenthanhtai.2310@gmail.com"
         }
     ],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Skype\\": "src/"
+            "tafint_skype\\": "src/"
         }
     }
 }

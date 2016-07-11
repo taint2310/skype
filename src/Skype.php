@@ -1,5 +1,5 @@
 <?php
-namespace skype_web_php;
+namespace tafint_skype;
 
 /**
  * Class Skype

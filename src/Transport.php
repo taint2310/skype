@@ -1,6 +1,6 @@
 <?php
 
-namespace skype_web_php;
+namespace tafint_skype;
 
 use Exception;
 use DOMDocument;
